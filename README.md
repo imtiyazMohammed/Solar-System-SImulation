@@ -1,6 +1,6 @@
 # Solar-System-Simulation
 
-![alt text](https://drive.google.com/file/d/1UGR7_UZHi9U-EaheCObK7TNXoAtGYuqo/view?usp=sharing)
+![alt text](https://github.com/imtiyazMohammed/Solar-System-SImulation/blob/main/Screenshot%20(1544).png)
 
 ## Simulation of Planets of our Solar System orbiting the Sun
 ## Used Pygame for the simulation

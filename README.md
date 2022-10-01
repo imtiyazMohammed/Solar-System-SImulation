@@ -5,4 +5,4 @@
 ## Simulation of Planets of our Solar System orbiting the Sun
 ### Used Pygame for the simulation
 ### References : https://fiftyexamples.readthedocs.io/en/latest/gravity.html
-### Created by Imtiyaz
+### Created by Imtiyaz.
